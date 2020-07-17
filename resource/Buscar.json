@@ -1,0 +1,17 @@
+{
+	"Region": " --- Región Metropolitana",
+	"Texto": "Casa",
+	"Categoria": "Arrendar",
+	"Tipo": "Casa",
+	"MinimP": "$ 300.000",	
+	"MaxP": "$ 600.000",
+	"MinimD": "2 dormitorios",
+	"MaxD": "3 dormitorios",
+	"MinMt2": "60 m²",
+	"MaxMt2": "180 m²",
+	"MinB": "1 baño",
+	"MaxB": "2 baños",
+	"MinGc": "$ 25.000",
+	"MaxGc": "$ 150.000",
+	"Est": "1"
+}
